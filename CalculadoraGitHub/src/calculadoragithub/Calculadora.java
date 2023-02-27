@@ -12,7 +12,7 @@ package calculadoragithub;
 public class Calculadora {
     private int num1;
     private int num2;
-    
+    //Comentario de prueba
     public Calculadora(int a, int b){
         num1=a;
         num2=b;
