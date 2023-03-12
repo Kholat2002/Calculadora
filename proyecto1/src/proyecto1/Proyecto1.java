@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package proyecto1;
-//David chpa pene de riunem
 /**
  *
  * @author dam
