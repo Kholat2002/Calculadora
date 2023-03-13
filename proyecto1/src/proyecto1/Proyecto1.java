@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package proyecto1;
-//guapo tu padre tonto
+//guapo tu padre tonto, cashate la boca bobo
 /**
  *
  * @author dam
